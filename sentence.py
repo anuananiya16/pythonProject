@@ -1,4 +1,3 @@
-
 sentence = input("Enter a sentence with some string :")
 def calculate_count(sentence):
 
